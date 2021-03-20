@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Gangtaro
 - 👀 I’m interested in Data Science, Analysis, Machine Learning and Deep Learning for Data science.
 - 🌱 I’m currently learning ... all of data science
+  - sklearn modeling
+  - When to use 'xgboost'
+  - visualization with python    
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... igt0530@gmail.com 
 
