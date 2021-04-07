@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning ... all of data science
   - sklearn modeling
   - When to use 'xgboost'
-  - visualization with python    
+  - what is LightGBM
+    - parameters tuning
+    - algorithm       
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... igt0530@gmail.com 
 
