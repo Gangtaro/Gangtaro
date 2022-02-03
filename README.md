@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Gangtaro
-- 👀 I’m interested in Data Science, Analysis, Machine Learning and Deep Learning for Data science.
-- 🌱 I’m currently learning ... all of data science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... igt0530@gmail.com 
+- 👋 Hi, I’m Gyeongtae Im (임경태, @gangtaro)
+- 👀 I’m interested in ...
+  - Machine Learning & Deep Learning
+  - Recommend System
+  - Data Science and Data analysis   
+- 🌱 I’m currently learning RecSys with NAVER Boostcamp Ai-tech
+- 💞️ I’m looking to collaborate on ... 
+- 📫 How to reach me 
+  - igt0530@gmail.com 
 
 <!---
 Gangtaro/Gangtaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
