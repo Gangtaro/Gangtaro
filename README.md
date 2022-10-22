@@ -1,12 +1,12 @@
-- 👋 Hi, I’m Gyeongtae Im (임경태, @gangtaro)
-- 👀 I’m interested in ...
-  - Machine Learning & Deep Learning
-  - Recommend System
-  - Data Science and Data analysis   
-- 🌱 I’m currently learning RecSys with NAVER Boostcamp Ai-tech
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me 
-  - igt0530@gmail.com 
+- I'm Gyeongtae Im (임경태, everywhere@gangtaro)
+- I'm interested in whatever makes AI service more industrially useful
+- I studied .. 
+  - Statistics
+  - Recommend system
+  - Data Science
+- You can contact me through
+  - igt0530@gamil.com
+  - [Linkedin@Gyeongtae-Im](https://www.linkedin.com/in/gangtaro/)
 
 <!---
 Gangtaro/Gangtaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
